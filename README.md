@@ -31,4 +31,4 @@ async fn main() -> anyhow::Result<()> {
 
 License
 
-Dual licensed under MIT OR Apache-2.0.
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
